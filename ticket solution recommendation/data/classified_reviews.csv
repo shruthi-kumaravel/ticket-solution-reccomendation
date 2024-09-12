@@ -1,0 +1,75 @@
+review_text,category,urgency,sentiment,confidence,key_information,suggested_action
+"I ordered a smartphone, but received a smartwatch instead. This is unacceptable. Please fix this or I will return the item.",order_issue,high,neutral,0.5,[''],
+"I'm having trouble accessing my account. I've tried resetting my password multiple times, but I'm not receiving any emails.",other,medium,frustrated,0.5,[''],"Verify the customer's email address and check the spam or junk folder for the password reset emails. If not found, escalate the issue to the technical team for further investigation."
+"The laptop I received has a defective screen. It keeps flickering, and I can't use it for work. I need a replacement.",other,high,neutral,0.5,[''],Initiate a replacement process for the defective laptop.
+"I ordered a new camera, but the lens was missing from the package. I need the lens urgently for an event this weekend.",other,high,neutral,0.5,[''],
+I can't find the option to update my payment details on your website. Can someone guide me through the process?,billing,medium,neutral,0.5,['Payment details update'],Provide step-by-step instructions on how to update payment details on the website.
+The headphones I bought last month stopped working. They won't charge and are completely unresponsive. Can I get a refund?,other,medium,neutral,0.5,[''],
+"My order was supposed to arrive last week, but it's still showing as 'in transit'. Can you check on this for me?",other,medium,neutral,0.5,"[""Order delivery delay, current status 'in transit'""]",Check the tracking details for the order and investigate the delay.
+"I received the wrong color of the shoes I ordered. I wanted black, but received blue. How can I exchange them?",other,medium,neutral,0.9,[''],
+The software license key I received is not working. It says the key has already been used. Please help me with this issue.,other,medium,neutral,0.5,[''],Verify the software license key provided and issue a new one if necessary.
+I've been overcharged for my recent purchase. The invoice shows a higher amount than what I was told. Can you correct this?,billing,medium,neutral,0.5,[''],
+The washing machine I bought is making a strange noise. It wasn't like this when I first got it. What should I do?,other,medium,neutral,0.5,[''],
+I accidentally ordered two of the same item. Can you cancel one of them before it ships?,other,medium,neutral,0.5,[''],
+The blender I received is missing some parts. I can't use it without the blades. Can you send the missing parts?,other,medium,neutral,0.5,['Missing parts (blades) for the blender'],Verify the missing parts with the customer's order details and initiate the shipment of the missing blades.
+My package was delivered to the wrong address. I need help recovering it.,other,high,neutral,0.5,['Package delivered to wrong address'],
+"I ordered a gift for my friend, but it arrived damaged. How can I get a replacement quickly?",other,high,neutral,0.5,[''],
+I can't apply the discount code you sent me. It says it's invalid. Can you help?,other,medium,neutral,0.5,[''],"Verify the discount code and ensure it is correctly entered in the system. If the issue persists, check if the code has expired or if there are any usage restrictions."
+"The tablet I bought is overheating during use. Is this normal, or should I return it?",other,medium,neutral,0.5,[''],
+"I tried to contact customer service, but no one is responding. Can someone please get back to me?",other,medium,neutral,0.5,['None provided'],Assign the ticket to a customer service representative for a follow-up response.
+My credit card was charged twice for the same order. I need a refund for the duplicate charge.,billing,medium,neutral,0.5,[''],
+I received the wrong size for the clothes I ordered. Can I exchange them for the correct size?,other,medium,neutral,0.5,[''],
+The app crashes every time I try to place an order. Can you fix this bug?,other,high,neutral,0.5,['App crashes when placing an order'],Investigate the app crashing issue when placing an order
+"I need to change the shipping address for my order, but the website won't let me. Can someone assist?",other,medium,neutral,0.5,['Shipping address change request'],"Review the order details, attempt to manually update the shipping address in the system, and notify the customer once the address has been successfully changed."
+The gaming console I ordered arrived without any controllers. I can't use it without them. Please send the missing items.,other,medium,neutral,0.9,[''],
+"I ordered a laptop, but the box was empty when it arrived. This is completely unacceptable!",other,high,neutral,0.5,[''],
+The coffee maker I bought isn't brewing correctly. It only makes half a cup each time. What can I do?,other,low,neutral,0.5,[''],
+The customer support number on your website is incorrect. I can't reach anyone. Can you provide the correct number?,other,medium,neutral,0.5,[''],Update the customer support number on the website to ensure customers can reach the support team efficiently.
+"I purchased a digital download, but I never received the download link. Can you send it to me?",other,medium,neutral,0.5,[''],
+The air purifier I bought is very noisy. It's too loud to keep running all the time. Is there a quieter model available?,other,low,neutral,0.9,[''],
+"My order was marked as delivered, but I never received it. Can you check what happened?",other,medium,neutral,0.5,['Order marked as delivered but not received'],Check delivery status and investigate the issue with the shipping carrier. Offer to initiate a refund or resend the order if necessary.
+"I ordered a bookshelf, but it arrived with several scratches. How can I get a replacement or a refund?",other,medium,neutral,0.5,[''],
+The smartwatch I received doesn't hold a charge for more than a few hours. Is this normal?,other,medium,neutral,0.5,[''],
+"The jacket I ordered was supposed to be waterproof, but it isn't. Can I return it for a refund?",other,medium,neutral,0.5,[''],
+The online chat support on your website isn't working. I need help with my order but can't reach anyone.,other,high,frustrated,0.5,"['Issue with online chat support, need help with an order']",Investigate and resolve the online chat support issue to assist the customer with their order.
+The printer I bought has constant paper jams. It's very frustrating. What can I do?,other,medium,neutral,0.5,[''],
+"I ordered a bicycle, but the tires were flat when it arrived. Can you send me a replacement?",other,medium,neutral,0.9,[''],
+"I can't log into my account. It keeps saying my password is incorrect, even after I reset it.",other,medium,frustrated,0.5,"['Login issue, password reset']","Verify the correct password, check for any ongoing technical issues with the login system."
+The picture quality of the TV I bought is terrible. It's very blurry and not as advertised.,other,medium,neutral,0.5,[''],
+"I ordered a rug, but the color doesn't match the pictures on the website. How can I return it?",other,low,neutral,0.5,[''],
+The vacuum cleaner I bought isn't picking up dirt properly. Can I get a replacement?,other,medium,neutral,0.5,['Issue with purchased vacuum cleaner not picking up dirt properly'],Request more information about the specific problem with the vacuum cleaner and provide troubleshooting steps. Offer a replacement if necessary.
+My recent order arrived with items missing. How do I get the missing items sent to me?,other,medium,neutral,0.9,['Missing items in recent order'],
+The shoes I ordered don't fit. They're too small. Can I exchange them for a larger size?,other,medium,neutral,0.5,[''],
+The food processor I bought stopped working after just a few uses. Can I get a replacement?,other,medium,neutral,0.5,"['Product (food processor), issue with functionality after a few uses']","Request more details about the purchase (order number, purchase date), and guide the customer through the warranty or return process."
+The tent I ordered for my camping trip has a tear in it. I need a new one before my trip.,other,high,neutral,0.9,[''],
+The earbuds I bought have very poor sound quality. Can I return them for a refund?,other,low,neutral,0.5,"['Earbuds purchased, poor sound quality']",Advise the customer on the return policy and provide instructions on how to return the earbuds for a refund.
+The desk I ordered arrived with a broken leg. How can I get a replacement part?,other,medium,neutral,0.5,[''],Instruct the customer to provide the order number and specific details of the broken part for further assistance.
+The camera I ordered doesn't focus properly. All my pictures are blurry. What should I do?,other,medium,neutral,0.5,"['Camera, blurry pictures']",
+The wireless mouse I bought disconnects frequently. It's very annoying. Can you help?,other,medium,neutral,0.5,['Issue with a wireless mouse disconnecting frequently'],"Troubleshoot the wireless mouse by checking the batteries, connectivity settings, and interference sources."
+"I ordered a watch, but the band was missing. Can you send me the missing band?",other,medium,neutral,0.5,[''],
+The suitcase I bought has a broken zipper. How do I get a replacement?,other,medium,neutral,0.5,[''],
+The bookshelf I ordered arrived with missing screws. I can't assemble it without them.,other,medium,neutral,0.9,['Missing screws in the bookshelf order'],Contact the customer to apologize for the inconvenience and request further details such as the order number and the specific screws needed. Initiate a replacement or shipment of the missing parts.
+The coffee grinder I bought doesn't grind the beans evenly. Is this a defect?,other,low,neutral,0.5,"[""coffee grinder, doesn't grind beans evenly""]","Ask the customer for more details about the issue, offer troubleshooting tips or a possible replacement if necessary."
+The smart speaker I bought isn't recognizing my voice commands. What should I do?,other,medium,neutral,0.5,"['smart speaker, voice commands']",
+The bike I ordered has a defective brake. It's unsafe to ride. Can I get a replacement?,other,high,neutral,0.9,[''],
+The tablet I ordered arrived with a cracked screen. I need a replacement immediately.,other,high,neutral,0.5,[''],
+The software I purchased isn't compatible with my computer. Can I get a refund?,other,medium,neutral,0.5,[''],
+The lamp I bought doesn't turn on. It's completely defective. Can I return it?,other,medium,neutral,0.5,[''],
+The phone case I ordered doesn't fit my phone. How can I exchange it for the correct size?,other,medium,neutral,0.5,[''],
+The gaming chair I bought is very uncomfortable. It's not what I expected. Can I return it?,other,low,neutral,0.5,[''],
+The mirror I ordered arrived shattered. How do I get a replacement?,other,medium,neutral,0.5,"['Order number, details about the shattered mirror.']",Request the customer's order number and details about the shattered mirror to initiate a replacement process.
+The air conditioner I bought isn't cooling the room properly. What can I do?,other,medium,neutral,0.5,['Air conditioner not cooling room properly'],
+The coffee table I ordered has a crack in the glass. How do I get a replacement?,other,medium,neutral,0.5,[''],
+The washing machine I bought isn't draining water properly. Is it defective?,other,medium,neutral,0.5,['Issue with draining water in purchased washing machine'],
+The oven I purchased doesn't heat up evenly. Can I get a replacement?,other,low,neutral,0.5,['**'],**
+The watch I ordered arrived with a dead battery. Can you send a replacement battery?,other,medium,neutral,0.5,[''],Send a replacement battery to the customer.
+The lawn mower I bought isn't cutting the grass evenly. Is there something wrong with it?,other,low,neutral,0.5,[''],
+The tablet case I ordered doesn't fit my tablet. How can I get the correct size?,other,medium,neutral,0.5,[''],
+The camera lens I bought isn't focusing properly. Can I return it for a new one?,other,medium,neutral,0.5,[''],
+The car charger I bought isn't charging my phone. Can I get a replacement?,other,medium,neutral,0.5,[''],
+The ceiling fan I bought makes a loud noise when it's running. Is this normal?,other,low,neutral,0.5,[''],
+The backpack I ordered arrived with a broken zipper. Can you send a replacement?,other,medium,neutral,0.5,[''],Initiate a replacement process for the backpack with the broken zipper.
+The dishwasher I bought isn't cleaning the dishes properly. Is it defective?,other,medium,neutral,0.5,"[""The customer purchased a dishwasher that isn't cleaning dishes properly.""]",
+The soundbar I ordered isn't working with my TV. Can you help me troubleshoot?,other,medium,neutral,0.5,[''],
+The electric kettle I bought isn't heating up water. Can I return it for a new one?,other,medium,neutral,0.5,[''],Advise the customer on the return policy for defective products and provide instructions on how to initiate a return or exchange.
+The window blinds I ordered don't fit my windows. How can I exchange them for the correct size?,other,medium,neutral,0.5,['Issue with window blinds not fitting windows'],
